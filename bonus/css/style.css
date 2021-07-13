@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div[class*="col-"]{
+    padding: 1px;
+}
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

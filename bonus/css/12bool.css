@@ -1,0 +1,126 @@
+.row{
+    width: 100%;
+    display: flex;
+    min-height: calc(( 100vh - 200px ) / 10);
+    flex-wrap: wrap;
+}
+div[class*="col-fill"]{
+    flex-basis: calc( ( 100% / 12 ) * 1 );
+}
+div .col-xs-1-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 1 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-2-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 2 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-3-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 3 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-4-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 4 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-5-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 5 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-6-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 6 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-7-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 7 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-8-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 8 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-9-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 9 );
+    background-color: rgb(38, 98, 150);
+}
+div .col-xs-10-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 10 );
+    background-color: rgb(38, 98, 150); 
+}
+div .col-xs-11-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 11 );
+    background-color: rgb(38, 98, 150); 
+}
+div .col-xs-12-blue-water{
+    flex-basis: calc( ( 100% / 12 ) * 12 );
+    background-color: rgb(38, 98, 150); 
+}
+div .col-xs-1-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 1 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-2-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 2 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-3-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 3 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-4-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 4 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-5-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 5 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-6-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 6 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-7-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 7 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-8-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 8 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-9-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 9 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-10-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 10 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-11-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 11 );
+    background-color: rgb(118, 85, 112);
+}
+div .col-xs-12-red-water{
+    flex-basis: calc( ( 100% / 12 ) * 12 );
+    background-color: rgb(118, 85, 112);
+}
+/* div[class$="red"]{
+    background-color: rgb(178, 75, 82);
+}
+div[class$="red-water"]{
+    background-color: rgb(118, 85, 112);
+}
+div[class$="red-reflex"]{
+    background-color: rgb(151, 80, 98);
+}
+div[class$="blue-water"]{
+    background-color: rgb(38, 98, 150);
+}
+div[class$="yellow-sky1"]{
+    background-color: rgb(255, 234, 191);
+}
+div[class$="yellow-sky2"]{
+    background-color: rgb(254, 194, 158);
+}   
+div[class$="yellow-sky3"]{
+    background-color: rgb(255, 166, 114);
+} */
