@@ -3,12 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-div {
+
+div[class*="col-"]{
     background-color: rgb(0, 108, 250);
     color: white;
     border: solid white;
     border-width: 0px 1px 1px 1px;
 }
-.bgr-green{
+.row .row div{
     background-color: rgb(0, 225, 101);
+    border-width: 1px;
 }
